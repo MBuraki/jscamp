@@ -83,3 +83,4 @@ function primeNmbr(sayi) {
 }
 
 primeNmbr()
+
